@@ -1,0 +1,13 @@
+{
+	"defaultLight": {
+		"red": 0.0,
+		"green": 0.0,
+		"blue": 0.0
+	},
+	"variants": {
+		"lit=true": {
+			"lightLevel": 9.0,
+			"red": 1.0
+		}
+	}
+}

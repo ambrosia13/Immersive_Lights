@@ -1,0 +1,8 @@
+{
+	"defaultLight": {
+		"red": 0.5,
+		"green": 0.7,
+		"blue": 1.0,
+		"lightLevel": 10.0
+	}
+}

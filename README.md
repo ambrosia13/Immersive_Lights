@@ -1,0 +1,1 @@
+Adds dramatic, immersive, saturated, and very opinionated color overrides to Canvas's block light API. Feel free to PR any block from any mod you want to be supported. The more the merrier!
